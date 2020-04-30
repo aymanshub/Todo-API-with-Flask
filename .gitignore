@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm stuff:
+.idea/
+
+# Treehouse stuff:
+angular-todo_v4.zip
