@@ -10,4 +10,4 @@ MarkupSafe==1.0
 peewee==3.7.0
 pytz==2018.5
 six==1.11.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
