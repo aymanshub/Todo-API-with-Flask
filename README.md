@@ -5,7 +5,8 @@ A Flask backend REST API, for a to-do list client-side app made by Angular JS
 - Testing coverage reached 92%
 - Used the following coverage command (excluded tests and venv files):
   
-  *coverage run --source='.' --omit='./venv/*' tests.py*
+  *coverage run --source='.' --omit='./venv/*' tests.py
+  
   *coverage report*
 
 **Built With:**
